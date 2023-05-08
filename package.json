@@ -1,8 +1,8 @@
 {
-  "name": "netskys-extensions",
+  "name": "nikumans-extensions",
   "version": "1.0.0",
-  "repositoryName": "Netsky's Extensions (0.5)",
-  "description": "Netsky's extensions for 0.5!",
+  "repositoryName": "Nikuman's Extensions (0.5)",
+  "description": "Nikuman's extensions for 0.5!",
   "scripts": {
     "start": "tsc && node dist/api.js",
     "build": "tsc",
@@ -11,7 +11,7 @@
     "bundle": "paperback bundle",
     "serve": "paperback serve -p 8000"
   },
-  "author": "Netsky",
+  "author": "Nikuman",
   "license": "MIT",
   "dependencies": {
     "chai": "^4.2.0",
